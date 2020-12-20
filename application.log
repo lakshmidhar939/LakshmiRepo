@@ -1,0 +1,21 @@
+2020-09-27 20:31:25,114  INFO [main] LoginTest:32 - ****************************** Starting test cases execution  *****************************************
+2020-09-27 20:31:31,393  INFO [main] LoginTest:36 - launching chrome broswer
+2020-09-27 20:31:39,707  INFO [main] LoginTest:43 - entering application URL
+2020-09-27 20:31:39,708  WARN [main] LoginTest:44 - Hey this just a warning message
+2020-09-27 20:31:39,709 FATAL [main] LoginTest:45 - hey this is just fatal error message
+2020-09-27 20:31:39,710 DEBUG [main] LoginTest:46 - this is debug message
+2020-09-27 20:31:39,722  INFO [main] LoginTest:52 - ****************************** starting test case *****************************************
+2020-09-27 20:31:39,742  INFO [main] LoginTest:53 - ****************************** freeCrmTitleTest *****************************************
+2020-09-27 20:31:39,764  INFO [main] LoginTest:56 - login page title is--->CRMPRO - CRM software for customer relationship management, sales, and support.
+2020-09-27 20:31:40,511  INFO [main] LoginTest:82 - ****************************** Browser is closed *****************************************
+2020-09-27 20:31:40,521  INFO [main] LoginTest:32 - ****************************** Starting test cases execution  *****************************************
+2020-09-27 20:31:45,806  INFO [main] LoginTest:36 - launching chrome broswer
+2020-09-27 20:31:53,712  INFO [main] LoginTest:43 - entering application URL
+2020-09-27 20:31:53,713  WARN [main] LoginTest:44 - Hey this just a warning message
+2020-09-27 20:31:53,714 FATAL [main] LoginTest:45 - hey this is just fatal error message
+2020-09-27 20:31:53,714 DEBUG [main] LoginTest:46 - this is debug message
+2020-09-27 20:31:53,717  INFO [main] LoginTest:66 - ****************************** starting test case *****************************************
+2020-09-27 20:31:53,718  INFO [main] LoginTest:67 - ****************************** freemCRMLogoTest *****************************************
+2020-09-27 20:31:53,886  INFO [main] LoginTest:72 - ****************************** ending test case *****************************************
+2020-09-27 20:31:53,887  INFO [main] LoginTest:73 - ****************************** freemCRMLogoTest *****************************************
+2020-09-27 20:31:54,859  INFO [main] LoginTest:82 - ****************************** Browser is closed *****************************************
